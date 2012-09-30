@@ -1,0 +1,101 @@
+HashMap:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.004980 ms
+Running average: 0.004615 ms
+Running average: 0.004430 ms
+Running average: 0.004337 ms
+Running average: 0.004302 ms
+Running average: 0.004267 ms
+Running average: 0.004241 ms
+Running average: 0.004222 ms
+Running average: 0.004210 ms
+It took on average 0.000183 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 4202 ms to do this
+
+HashTable:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.009830 ms
+Running average: 0.009640 ms
+Running average: 0.009570 ms
+Running average: 0.009515 ms
+Running average: 0.009486 ms
+Running average: 0.009475 ms
+Running average: 0.009463 ms
+Running average: 0.009456 ms
+Running average: 0.009448 ms
+It took on average 0.000410 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 9439 ms to do this
+
+TreeMap:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.006930 ms
+Running average: 0.006815 ms
+Running average: 0.006743 ms
+Running average: 0.006690 ms
+Running average: 0.006664 ms
+Running average: 0.006647 ms
+Running average: 0.006634 ms
+Running average: 0.006619 ms
+Running average: 0.006612 ms
+It took on average 0.000287 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 6608 ms to do this
+
+Map 1 [Hashtable in the map]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.009810 ms
+Running average: 0.009680 ms
+Running average: 0.009577 ms
+Running average: 0.009520 ms
+Running average: 0.009476 ms
+Running average: 0.009455 ms
+Running average: 0.009441 ms
+Running average: 0.009439 ms
+Running average: 0.009441 ms
+It took on average 0.000410 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 9433 ms to do this
+
+Map 2 [HashMap in the map]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.004640 ms
+Running average: 0.004480 ms
+Running average: 0.004430 ms
+Running average: 0.004400 ms
+Running average: 0.004376 ms
+Running average: 0.004360 ms
+Running average: 0.004347 ms
+Running average: 0.004340 ms
+Running average: 0.004336 ms
+It took on average 0.000189 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 4337 ms to do this
+
+Map 3 [TreeMap]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.007200 ms
+Running average: 0.006885 ms
+Running average: 0.006777 ms
+Running average: 0.006720 ms
+Running average: 0.006690 ms
+Running average: 0.006673 ms
+Running average: 0.006661 ms
+Running average: 0.006649 ms
+Running average: 0.006636 ms
+It took on average 0.000288 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 6625 ms to do this

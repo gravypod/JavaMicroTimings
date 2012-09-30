@@ -1,0 +1,187 @@
+ArrayList:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.001830 ms
+Running average: 0.001900 ms
+Running average: 0.002223 ms
+Running average: 0.002025 ms
+Running average: 0.001958 ms
+Running average: 0.001888 ms
+Running average: 0.002130 ms
+Running average: 0.002042 ms
+Running average: 0.002279 ms
+It took on average 0.000097 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2226 ms to do this
+
+List:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.001770 ms
+Running average: 0.002100 ms
+Running average: 0.002247 ms
+Running average: 0.002035 ms
+Running average: 0.001952 ms
+Running average: 0.002137 ms
+Running average: 0.002050 ms
+Running average: 0.002242 ms
+Running average: 0.002142 ms
+It took on average 0.000091 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2096 ms to do this
+
+Vector:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.008190 ms
+Running average: 0.008200 ms
+Running average: 0.008263 ms
+Running average: 0.012120 ms
+Running average: 0.011308 ms
+Running average: 0.010927 ms
+Running average: 0.010483 ms
+Running average: 0.010189 ms
+Running average: 0.009927 ms
+It took on average 0.000432 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 9934 ms to do this
+
+HashSet:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.002390 ms
+Running average: 0.002275 ms
+Running average: 0.002237 ms
+Running average: 0.002215 ms
+Running average: 0.002196 ms
+Running average: 0.002192 ms
+Running average: 0.002184 ms
+Running average: 0.002182 ms
+Running average: 0.002189 ms
+It took on average 0.000095 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2187 ms to do this
+
+TreeSet:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.002570 ms
+Running average: 0.002445 ms
+Running average: 0.002407 ms
+Running average: 0.002385 ms
+Running average: 0.002372 ms
+Running average: 0.002362 ms
+Running average: 0.002351 ms
+Running average: 0.002342 ms
+Running average: 0.002342 ms
+It took on average 0.000102 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2339 ms to do this
+
+Set 1 [HashSet]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.002520 ms
+Running average: 0.002365 ms
+Running average: 0.002303 ms
+Running average: 0.002292 ms
+Running average: 0.002262 ms
+Running average: 0.002247 ms
+Running average: 0.002236 ms
+Running average: 0.002226 ms
+Running average: 0.002219 ms
+It took on average 0.000096 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2214 ms to do this
+
+Set 2 [Tree Set]: 
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.002620 ms
+Running average: 0.002485 ms
+Running average: 0.002433 ms
+Running average: 0.002405 ms
+Running average: 0.002392 ms
+Running average: 0.002392 ms
+Running average: 0.002383 ms
+Running average: 0.002375 ms
+Running average: 0.002370 ms
+It took on average 0.000103 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2369 ms to do this
+
+Collection 1 [With and array list]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.001760 ms
+Running average: 0.007100 ms
+Running average: 0.005340 ms
+Running average: 0.004340 ms
+Running average: 0.003784 ms
+Running average: 0.003653 ms
+Running average: 0.003464 ms
+Running average: 0.003200 ms
+Running average: 0.003024 ms
+It took on average 0.000141 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 3245 ms to do this
+
+
+Collection 2 [With a list]:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.001820 ms
+Running average: 0.002180 ms
+Running average: 0.002300 ms
+Running average: 0.002077 ms
+Running average: 0.001994 ms
+Running average: 0.001995 ms
+Running average: 0.001936 ms
+Running average: 0.002221 ms
+Running average: 0.002127 ms
+It took on average 0.000106 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2433 ms to do this
+
+Collection 3 [With a HashSet]:
+
+I have 23 items to search through
+Running average: 0.000000 ms
+Running average: 0.002460 ms
+Running average: 0.002430 ms
+Running average: 0.002367 ms
+Running average: 0.002332 ms
+Running average: 0.002312 ms
+Running average: 0.002283 ms
+Running average: 0.002264 ms
+Running average: 0.002252 ms
+Running average: 0.002244 ms
+It took on average 0.000097 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2237 ms to do this
+
+Collection 4 [With a TreeSet]:
+
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.002600 ms
+Running average: 0.002480 ms
+Running average: 0.002430 ms
+Running average: 0.002412 ms
+Running average: 0.002394 ms
+Running average: 0.002388 ms
+Running average: 0.002380 ms
+Running average: 0.002374 ms
+Running average: 0.002370 ms
+It took on average 0.000103 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 2362 ms to do this
