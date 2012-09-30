@@ -1,0 +1,5 @@
+I have 23 items to search through
+Running average: 674.000000 ms
+It took on average 50.643478 ms to search through 23 items 5 times
+I searched 115 times
+I took 5824 ms to do this
