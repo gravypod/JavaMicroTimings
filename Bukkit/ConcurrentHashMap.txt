@@ -1,0 +1,14 @@
+I have 23 items to search through
+Running average: 1.000000 ms
+Running average: 0.008450 ms
+Running average: 0.007815 ms
+Running average: 0.007507 ms
+Running average: 0.007337 ms
+Running average: 0.007232 ms
+Running average: 0.007167 ms
+Running average: 0.007121 ms
+Running average: 0.007087 ms
+Running average: 0.007064 ms
+It took on average 0.000307 ms to search through 23 items 1000000 times
+I searched 23000000 times
+I took 7052 ms to do this
