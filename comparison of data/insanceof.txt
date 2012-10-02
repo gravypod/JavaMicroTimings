@@ -1,0 +1,13 @@
+Running average: 0.000000 ms
+Running average: 6.902411 ms
+Running average: 9.112659 ms
+Running average: 10.364816 ms
+Running average: 11.398127 ms
+Running average: 12.346107 ms
+Running average: 13.230338 ms
+Running average: 14.106611 ms
+Running average: 14.950183 ms
+Running average: 15.789381 ms
+It took on average 16.623924 ms to search through 1000000 times
+I searched 1000000 times
+I took 16623925 ms to do this
